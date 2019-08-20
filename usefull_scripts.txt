@@ -1,0 +1,2 @@
+#To Convert python script to juypter
+jupytext --to notebook detect_face.py
